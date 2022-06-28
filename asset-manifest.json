@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8bac268a.css",
-    "main.js": "/static/js/main.f148f96c.js",
+    "main.css": "/static/css/main.e46dbac0.css",
+    "main.js": "/static/js/main.98b96f34.js",
+    "static/css/935.323ea139.chunk.css": "/static/css/935.323ea139.chunk.css",
+    "static/js/935.bdd7fa21.chunk.js": "/static/js/935.bdd7fa21.chunk.js",
+    "static/css/796.2e13c20f.chunk.css": "/static/css/796.2e13c20f.chunk.css",
+    "static/js/796.caab0d56.chunk.js": "/static/js/796.caab0d56.chunk.js",
     "static/js/937.4c2b7811.chunk.js": "/static/js/937.4c2b7811.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/hotels.webp": "/static/media/hotels.e38fe63193b2589b819b.webp",
-    "static/media/avatar.webp": "/static/media/avatar.b9d0bb7873d0e0747540.webp",
+    "static/js/726.629212b9.chunk.js": "/static/js/726.629212b9.chunk.js",
     "static/media/netlfix.webp": "/static/media/netlfix.09990d2971497ee57db8.webp",
-    "static/media/procleana.webp": "/static/media/procleana.bdc33ea4b17a7fa26567.webp",
-    "static/media/avatar2.webp": "/static/media/avatar2.ee0787f7662824f21e2e.webp",
+    "static/media/avatar.webp": "/static/media/avatar.32282282d3baf0c72d6a.webp",
+    "static/media/hotels.webp": "/static/media/hotels.9c2f6427bee8249b8e18.webp",
+    "static/media/avatar2.webp": "/static/media/avatar2.0693d530134c3ec49cd7.webp",
     "static/media/insta.webp": "/static/media/insta.6099a0656fa598cb9029.webp",
-    "static/media/imme.webp": "/static/media/imme.28a2d6143041c4f6a9c7.webp",
+    "static/media/imme.webp": "/static/media/imme.039cbeae825678e4d88b.webp",
+    "static/media/procleana.webp": "/static/media/procleana.5934b076d28b9d61253c.webp",
     "static/media/lego.webp": "/static/media/lego.8466ae8cd4d06614fa3e.webp",
     "static/media/space.webp": "/static/media/space.e5a1debc99cba3a10375.webp",
     "static/media/rock-paper.webp": "/static/media/rock-paper.b315355ba96e55442e2b.webp",
@@ -18,13 +23,18 @@
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.8bac268a.css.map": "/static/css/main.8bac268a.css.map",
-    "main.f148f96c.js.map": "/static/js/main.f148f96c.js.map",
+    "main.e46dbac0.css.map": "/static/css/main.e46dbac0.css.map",
+    "main.98b96f34.js.map": "/static/js/main.98b96f34.js.map",
+    "935.323ea139.chunk.css.map": "/static/css/935.323ea139.chunk.css.map",
+    "935.bdd7fa21.chunk.js.map": "/static/js/935.bdd7fa21.chunk.js.map",
+    "796.2e13c20f.chunk.css.map": "/static/css/796.2e13c20f.chunk.css.map",
+    "796.caab0d56.chunk.js.map": "/static/js/796.caab0d56.chunk.js.map",
     "937.4c2b7811.chunk.js.map": "/static/js/937.4c2b7811.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map",
+    "726.629212b9.chunk.js.map": "/static/js/726.629212b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bac268a.css",
-    "static/js/main.f148f96c.js"
+    "static/css/main.e46dbac0.css",
+    "static/js/main.98b96f34.js"
   ]
 }
